@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 
 # Show title and description.
-st.title("💬 성민님의 챗봇")
+st.title("💬 성민님의 ChatBot")
 st.write(
     "AI model : OpenAI's GPT-3.5"
 )
